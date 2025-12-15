@@ -1,2 +1,4 @@
 # Sequence-To-Simulation
 The commands from my basic tutorial explaining how to go from sequence to simulation using Uniprot, AlphaFold3 modeling, and GROMACS for molecular dynamics simulation.
+
+Video URL: https://www.youtube.com/watch?v=h0aTnlP7zXo
